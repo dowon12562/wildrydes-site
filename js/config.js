@@ -8,4 +8,3 @@ window._config = {
         invokeUrl: 'https://uf70g6all7.execute-api.ap-northeast-2.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
-console.debug('CONFIG_LOADED', window._config);
